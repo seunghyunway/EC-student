@@ -6,9 +6,9 @@
 
 ### Embedded Controller by Young-Keun Kim, Handong Global University 
 
-Author:  Your Name
+Author:  Seunghyun Lee
 
-Date:  Updated 2021-8-31
+Date:  Updated 2021-10-5
 
 
 
@@ -23,6 +23,8 @@ This is a private github repository for Embedded Controller Class that contains 
 ## Documentation
 
 [See here for API documentation ](./docs/EC_HAL_Documentation.md)
+
+[Clik here](https://github.com/seunghyunway/EC-student)
 
 
 
@@ -67,3 +69,17 @@ _// Add your notes here_
 ## Resource
 
 _// Add your notes here_
+
+
+
+# Title 1
+
+## Tile 2
+
+### Title 3
+
+#### Title 4
+
+##### Title 5
+
+###### Title 6
